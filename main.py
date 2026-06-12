@@ -8,7 +8,7 @@ import os
 # Configuración de la ventana
 # ==========================================================
 app = ctk.CTk()
-app.title("Analizador Robusto de Límites - MATE1133")
+app.title("Analizador de Límites - MATE1133")
 app.geometry("800x800") 
 
 # Variable global para recordar qué casilla fue la última activa
